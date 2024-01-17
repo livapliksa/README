@@ -1,0 +1,1 @@
+#Izveidot python failu, kur pras lietotājam ievadīt savu vārdu, uzvārdu un tas tiek ierakstits txt failā ar nosaukumu ziema
